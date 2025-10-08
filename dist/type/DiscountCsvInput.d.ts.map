@@ -1,0 +1,1 @@
+{"version":3,"file":"DiscountCsvInput.d.ts","sourceRoot":"","sources":["../../src/type/DiscountCsvInput.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,kBAAkB,EAAE,MAAM,sBAAsB,CAAC;AAC1D;;GAEG;AACH,MAAM,WAAW,gBAAgB;IAC/B,eAAe;IACf,IAAI,EAAE,IAAI,CAAC;IACX,gCAAgC;IAChC,QAAQ,CAAC,EAAE,kBAAkB,EAAE,CAAC;CACjC"}

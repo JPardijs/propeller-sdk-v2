@@ -1,0 +1,1 @@
+{"version":3,"file":"FavoriteListsBaseSearchInput.d.ts","sourceRoot":"","sources":["../../src/type/FavoriteListsBaseSearchInput.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,MAAM,WAAW,4BAA4B;IAC3C,yBAAyB;IACzB,IAAI,CAAC,EAAE,MAAM,CAAC;IACd,+BAA+B;IAC/B,SAAS,CAAC,EAAE,OAAO,CAAC;IACpB,yBAAyB;IACzB,IAAI,CAAC,EAAE,MAAM,CAAC;IACd,2BAA2B;IAC3B,MAAM,CAAC,EAAE,MAAM,CAAC;CACjB"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"ShipmentCreateItemInput.d.ts","sourceRoot":"","sources":["../../src/type/ShipmentCreateItemInput.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,MAAM,WAAW,uBAAuB;IACtC,oBAAoB;IACpB,WAAW,EAAE,MAAM,CAAC;IACpB,eAAe;IACf,QAAQ,CAAC,EAAE,MAAM,CAAC;IAClB,WAAW;IACX,IAAI,CAAC,EAAE,MAAM,CAAC;IACd,UAAU;IACV,GAAG,CAAC,EAAE,MAAM,CAAC;CACd"}

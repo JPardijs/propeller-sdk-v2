@@ -1,0 +1,1 @@
+{"version":3,"file":"ImageTransformationInput.d.ts","sourceRoot":"","sources":["../../src/type/ImageTransformationInput.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,mBAAmB,EAAE,MAAM,uBAAuB,CAAC;AAC5D;;GAEG;AACH,MAAM,WAAW,wBAAwB;IACvC,kDAAkD;IAClD,IAAI,EAAE,MAAM,CAAC;IACb,mCAAmC;IACnC,cAAc,EAAE,mBAAmB,CAAC;CACrC"}

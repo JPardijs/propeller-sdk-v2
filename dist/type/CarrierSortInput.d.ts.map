@@ -1,0 +1,1 @@
+{"version":3,"file":"CarrierSortInput.d.ts","sourceRoot":"","sources":["../../src/type/CarrierSortInput.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,gBAAgB,EAAE,MAAM,0BAA0B,CAAC;AAC5D,OAAO,EAAE,SAAS,EAAE,MAAM,mBAAmB,CAAC;AAC9C;;GAEG;AACH,MAAM,WAAW,gBAAgB;IAC/B,uBAAuB;IACvB,KAAK,EAAE,gBAAgB,CAAC;IACxB,kDAAkD;IAClD,KAAK,EAAE,SAAS,CAAC;CAClB"}

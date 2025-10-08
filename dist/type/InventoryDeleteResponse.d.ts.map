@@ -1,0 +1,1 @@
+{"version":3,"file":"InventoryDeleteResponse.d.ts","sourceRoot":"","sources":["../../src/type/InventoryDeleteResponse.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,qBAAa,uBAAuB;IAClC,qBAAqB;IACrB,OAAO,CAAC,SAAS,CAAW;IAC5B;;OAEG;gBACS,IAAI,GAAE,OAAO,CAAC,uBAAuB,CAAM;IAGvD;;OAEG;IACH,IAAI,QAAQ,IAAI,MAAM,EAAE,CAEvB;IACD;;OAEG;IACH,IAAI,QAAQ,CAAC,KAAK,EAAE,MAAM,EAAE,EAE3B;CACF"}

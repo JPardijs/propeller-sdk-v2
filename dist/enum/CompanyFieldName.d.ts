@@ -1,0 +1,22 @@
+/**
+ * @enum CompanyFieldName
+ Fields available for Company mapping
+ */
+export declare enum CompanyFieldName {
+    COMPANY_ID = "COMPANY_ID",
+    NAME = "NAME",
+    LANGUAGE = "LANGUAGE",
+    USERGROUP_ID = "USERGROUP_ID",
+    TAX_NUMBER = "TAX_NUMBER",
+    COC_NUMBER = "COC_NUMBER",
+    DEBTOR_ID = "DEBTOR_ID",
+    DEPARTMENT = "DEPARTMENT",
+    OFFICE = "OFFICE",
+    NOTES = "NOTES",
+    SOURCE_NAME = "SOURCE_NAME",
+    SOURCE_ID = "SOURCE_ID",
+    USERGROUP_SOURCE_NAME = "USERGROUP_SOURCE_NAME",
+    USERGROUP_SOURCE_ID = "USERGROUP_SOURCE_ID",
+    USERGROUP_LANGUAGE = "USERGROUP_LANGUAGE"
+}
+//# sourceMappingURL=CompanyFieldName.d.ts.map

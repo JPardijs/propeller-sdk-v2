@@ -1,0 +1,1 @@
+{"version":3,"file":"BulkCostPriceUpdateInput.d.ts","sourceRoot":"","sources":["../../src/type/BulkCostPriceUpdateInput.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,MAAM,WAAW,wBAAwB;IACvC,6KAA6K;IAC7K,KAAK,CAAC,EAAE,MAAM,CAAC;IACf,iGAAiG;IACjG,SAAS,CAAC,EAAE,MAAM,CAAC;IACnB,gFAAgF;IAChF,OAAO,CAAC,EAAE,MAAM,CAAC;IACjB,qFAAqF;IACrF,YAAY,EAAE,MAAM,CAAC;CACtB"}

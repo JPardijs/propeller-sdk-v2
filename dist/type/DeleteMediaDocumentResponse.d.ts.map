@@ -1,0 +1,1 @@
+{"version":3,"file":"DeleteMediaDocumentResponse.d.ts","sourceRoot":"","sources":["../../src/type/DeleteMediaDocumentResponse.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,qBAAa,2BAA2B;IACtC,uCAAuC;IACvC,OAAO,CAAC,QAAQ,CAAS;IACzB;;OAEG;gBACS,IAAI,GAAE,OAAO,CAAC,2BAA2B,CAAM;IAG3D;;OAEG;IACH,IAAI,OAAO,IAAI,MAAM,CAEpB;IACD;;OAEG;IACH,IAAI,OAAO,CAAC,KAAK,EAAE,MAAM,EAExB;CACF"}

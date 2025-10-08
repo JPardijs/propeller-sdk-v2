@@ -1,0 +1,1 @@
+{"version":3,"file":"BundleAddItemsInput.d.ts","sourceRoot":"","sources":["../../src/type/BundleAddItemsInput.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,mBAAmB,CAAC;AACpD;;GAEG;AACH,MAAM,WAAW,mBAAmB;IAClC,6BAA6B;IAC7B,KAAK,CAAC,EAAE,eAAe,EAAE,CAAC;CAC3B"}

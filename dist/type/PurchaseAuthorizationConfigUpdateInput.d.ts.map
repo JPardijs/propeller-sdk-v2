@@ -1,0 +1,1 @@
+{"version":3,"file":"PurchaseAuthorizationConfigUpdateInput.d.ts","sourceRoot":"","sources":["../../src/type/PurchaseAuthorizationConfigUpdateInput.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,sBAAsB,CAAC;AACpD;;GAEG;AACH,MAAM,WAAW,sCAAsC;IACrD,iFAAiF;IACjF,YAAY,CAAC,EAAE,YAAY,CAAC;IAC5B,0FAA0F;IAC1F,kBAAkB,CAAC,EAAE,MAAM,CAAC;CAC7B"}

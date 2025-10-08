@@ -1,0 +1,1 @@
+{"version":3,"file":"IBusinessRuleExpression.d.ts","sourceRoot":"","sources":["../../src/type/IBusinessRuleExpression.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,MAAM,WAAW,uBAAuB;IACtC,4BAA4B;IAC5B,EAAE,EAAE,MAAM,GAAG,MAAM,CAAC;IACpB,sBAAsB;IACtB,IAAI,EAAE,MAAM,CAAC;IACb,0BAA0B;IAC1B,QAAQ,EAAE,MAAM,CAAC;IACjB,uBAAuB;IACvB,KAAK,EAAE,GAAG,CAAC;CACZ"}

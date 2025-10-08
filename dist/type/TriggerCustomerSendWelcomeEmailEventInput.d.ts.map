@@ -1,0 +1,1 @@
+{"version":3,"file":"TriggerCustomerSendWelcomeEmailEventInput.d.ts","sourceRoot":"","sources":["../../src/type/TriggerCustomerSendWelcomeEmailEventInput.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,MAAM,WAAW,yCAAyC;IACxD,2DAA2D;IAC3D,UAAU,EAAE,MAAM,CAAC;IACnB,4BAA4B;IAC5B,SAAS,CAAC,EAAE,MAAM,CAAC;IACnB,8FAA8F;IAC9F,QAAQ,CAAC,EAAE,MAAM,CAAC;CACnB"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"Base64FileInput.d.ts","sourceRoot":"","sources":["../../src/type/Base64FileInput.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,MAAM,WAAW,eAAe;IAC9B,sDAAsD;IACtD,MAAM,EAAE,MAAM,CAAC;IACf,6CAA6C;IAC7C,WAAW,EAAE,MAAM,CAAC;IACpB,8EAA8E;IAC9E,QAAQ,EAAE,MAAM,CAAC;CAClB"}

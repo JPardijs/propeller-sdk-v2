@@ -1,0 +1,1 @@
+{"version":3,"file":"UsergroupSortInput.d.ts","sourceRoot":"","sources":["../../src/type/UsergroupSortInput.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,sBAAsB,EAAE,MAAM,gCAAgC,CAAC;AACxE,OAAO,EAAE,SAAS,EAAE,MAAM,mBAAmB,CAAC;AAC9C;;GAEG;AACH,MAAM,WAAW,kBAAkB;IACjC,gCAAgC;IAChC,KAAK,EAAE,sBAAsB,CAAC;IAC9B,sCAAsC;IACtC,KAAK,EAAE,SAAS,CAAC;CAClB"}

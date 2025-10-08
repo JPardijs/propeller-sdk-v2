@@ -1,0 +1,1 @@
+{"version":3,"file":"IDiscount.d.ts","sourceRoot":"","sources":["../../src/type/IDiscount.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,sBAAsB,CAAC;AACpD;;GAEG;AACH,MAAM,WAAW,SAAS;IACxB,wBAAwB;IACxB,EAAE,EAAE,MAAM,CAAC;IACX,oBAAoB;IACpB,IAAI,EAAE,YAAY,CAAC;IACnB,qBAAqB;IACrB,KAAK,EAAE,MAAM,CAAC;IACd,sCAAsC;IACtC,OAAO,EAAE,OAAO,CAAC;CAClB"}

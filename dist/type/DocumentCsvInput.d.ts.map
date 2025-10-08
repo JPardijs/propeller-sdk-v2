@@ -1,0 +1,1 @@
+{"version":3,"file":"DocumentCsvInput.d.ts","sourceRoot":"","sources":["../../src/type/DocumentCsvInput.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,kBAAkB,EAAE,MAAM,sBAAsB,CAAC;AAC1D;;GAEG;AACH,MAAM,WAAW,gBAAgB;IAC/B,eAAe;IACf,IAAI,EAAE,IAAI,CAAC;IACX,kDAAkD;IAClD,QAAQ,CAAC,EAAE,kBAAkB,EAAE,CAAC;CACjC"}

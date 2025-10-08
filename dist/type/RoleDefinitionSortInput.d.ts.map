@@ -1,0 +1,1 @@
+{"version":3,"file":"RoleDefinitionSortInput.d.ts","sourceRoot":"","sources":["../../src/type/RoleDefinitionSortInput.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,4BAA4B,EAAE,MAAM,sCAAsC,CAAC;AACpF,OAAO,EAAE,SAAS,EAAE,MAAM,mBAAmB,CAAC;AAC9C;;GAEG;AACH,MAAM,WAAW,uBAAuB;IACtC,uBAAuB;IACvB,KAAK,EAAE,4BAA4B,CAAC;IACpC,kDAAkD;IAClD,KAAK,EAAE,SAAS,CAAC;CAClB"}

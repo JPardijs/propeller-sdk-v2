@@ -1,0 +1,1 @@
+{"version":3,"file":"AttributeDescriptionSortInput.d.ts","sourceRoot":"","sources":["../../src/type/AttributeDescriptionSortInput.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,6BAA6B,EAAE,MAAM,uCAAuC,CAAC;AACtF,OAAO,EAAE,SAAS,EAAE,MAAM,mBAAmB,CAAC;AAC9C;;GAEG;AACH,MAAM,WAAW,6BAA6B;IAC5C,2BAA2B;IAC3B,KAAK,EAAE,6BAA6B,CAAC;IACrC,kDAAkD;IAClD,KAAK,CAAC,EAAE,SAAS,CAAC;CACnB"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"CustomerCsvMapping.d.ts","sourceRoot":"","sources":["../../src/type/CustomerCsvMapping.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,iBAAiB,EAAE,MAAM,2BAA2B,CAAC;AAC9D;;GAEG;AACH,MAAM,WAAW,kBAAkB;IACjC,6CAA6C;IAC7C,SAAS,EAAE,MAAM,CAAC;IAClB,4DAA4D;IAC5D,SAAS,EAAE,iBAAiB,CAAC;CAC9B"}

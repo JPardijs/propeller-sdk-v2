@@ -1,0 +1,1 @@
+{"version":3,"file":"BulkPriceCsvInput.d.ts","sourceRoot":"","sources":["../../src/type/BulkPriceCsvInput.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,mBAAmB,EAAE,MAAM,uBAAuB,CAAC;AAC5D;;GAEG;AACH,MAAM,WAAW,iBAAiB;IAChC,eAAe;IACf,IAAI,EAAE,IAAI,CAAC;IACX,iCAAiC;IACjC,QAAQ,CAAC,EAAE,mBAAmB,EAAE,CAAC;CAClC"}

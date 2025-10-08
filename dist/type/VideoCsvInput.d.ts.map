@@ -1,0 +1,1 @@
+{"version":3,"file":"VideoCsvInput.d.ts","sourceRoot":"","sources":["../../src/type/VideoCsvInput.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,mBAAmB,CAAC;AACpD;;GAEG;AACH,MAAM,WAAW,aAAa;IAC5B,eAAe;IACf,IAAI,EAAE,IAAI,CAAC;IACX,+CAA+C;IAC/C,QAAQ,CAAC,EAAE,eAAe,EAAE,CAAC;CAC9B"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"PriceCsvInput.d.ts","sourceRoot":"","sources":["../../src/type/PriceCsvInput.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,mBAAmB,CAAC;AACpD;;GAEG;AACH,MAAM,WAAW,aAAa;IAC5B,eAAe;IACf,IAAI,EAAE,IAAI,CAAC;IACX,6BAA6B;IAC7B,QAAQ,CAAC,EAAE,eAAe,EAAE,CAAC;CAC9B"}

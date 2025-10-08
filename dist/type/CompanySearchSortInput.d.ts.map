@@ -1,0 +1,1 @@
+{"version":3,"file":"CompanySearchSortInput.d.ts","sourceRoot":"","sources":["../../src/type/CompanySearchSortInput.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,sBAAsB,EAAE,MAAM,gCAAgC,CAAC;AACxE,OAAO,EAAE,SAAS,EAAE,MAAM,mBAAmB,CAAC;AAC9C;;GAEG;AACH,MAAM,WAAW,sBAAsB;IACrC,uBAAuB;IACvB,KAAK,EAAE,sBAAsB,CAAC;IAC9B,kDAAkD;IAClD,KAAK,EAAE,SAAS,CAAC;CAClB"}

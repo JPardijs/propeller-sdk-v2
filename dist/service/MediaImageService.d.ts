@@ -1,0 +1,47 @@
+import { BaseService } from './BaseService';
+import { MediaImage } from '../type/MediaImage';
+import { PaginatedMediaImageResponse } from '../type/PaginatedMediaImageResponse';
+import { MediaImageSearchInput } from '../type/MediaImageSearchInput';
+import { MediaImageInput } from '../type/MediaImageInput';
+import { UpdateMediaImageInput } from '../type/UpdateMediaImageInput';
+/**
+ Service for managing media images
+ * @extends BaseService
+ */
+export declare class MediaImageService extends BaseService {
+    /**
+     Retrieves a specific media image
+     * @param id Media image ID
+     * @returns Promise<MediaImage> Media image data
+     */
+    getMediaImage(id: number): Promise<MediaImage>;
+    /**
+     Retrieves media images with pagination
+     * @param input Search input parameters
+     * @returns Promise<PaginatedMediaImageResponse> Paginated media images
+     */
+    getMediaImages(input?: MediaImageSearchInput): Promise<PaginatedMediaImageResponse>;
+    /**
+     Creates a new media image
+     * @param input Media image creation input
+     * @returns Promise<MediaImage> The created media image
+     */
+    createMediaImage(input: MediaImageInput): Promise<MediaImage>;
+    /**
+     Updates an existing media image
+     * @param input Media image update input
+     * @returns Promise<MediaImage> The updated media image
+     */
+    updateMediaImage(input: UpdateMediaImageInput): Promise<MediaImage>;
+    /**
+     Deletes a media image
+     * @param id Media image ID
+     * @returns Promise<boolean> Success status
+     */
+    deleteMediaImage(id: number): Promise<boolean>;
+    /**
+     Initializes the service by preloading common fragments
+     */
+    initializeService(): Promise<void>;
+}
+//# sourceMappingURL=MediaImageService.d.ts.map

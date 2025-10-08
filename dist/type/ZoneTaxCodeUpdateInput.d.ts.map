@@ -1,0 +1,1 @@
+{"version":3,"file":"ZoneTaxCodeUpdateInput.d.ts","sourceRoot":"","sources":["../../src/type/ZoneTaxCodeUpdateInput.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,iBAAiB,CAAC;AAC1C;;GAEG;AACH,MAAM,WAAW,sBAAsB;IACrC,gBAAgB;IAChB,IAAI,CAAC,EAAE,MAAM,CAAC;IACd,eAAe;IACf,OAAO,CAAC,EAAE,OAAO,CAAC;CACnB"}

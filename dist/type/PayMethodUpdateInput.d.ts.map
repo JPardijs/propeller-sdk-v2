@@ -1,0 +1,1 @@
+{"version":3,"file":"PayMethodUpdateInput.d.ts","sourceRoot":"","sources":["../../src/type/PayMethodUpdateInput.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,oBAAoB,EAAE,MAAM,wBAAwB,CAAC;AAC9D;;GAEG;AACH,MAAM,WAAW,oBAAoB;IACnC,wBAAwB;IACxB,KAAK,CAAC,EAAE,oBAAoB,EAAE,CAAC;IAC/B,2CAA2C;IAC3C,YAAY,CAAC,EAAE,MAAM,CAAC;IACtB,eAAe;IACf,IAAI,CAAC,EAAE,MAAM,CAAC;CACf"}

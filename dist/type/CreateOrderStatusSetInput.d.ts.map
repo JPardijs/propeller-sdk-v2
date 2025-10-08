@@ -1,0 +1,1 @@
+{"version":3,"file":"CreateOrderStatusSetInput.d.ts","sourceRoot":"","sources":["../../src/type/CreateOrderStatusSetInput.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,MAAM,WAAW,yBAAyB;IACxC,gCAAgC;IAChC,IAAI,EAAE,MAAM,CAAC;IACb,uCAAuC;IACvC,WAAW,CAAC,EAAE,MAAM,CAAC;IACrB,kEAAkE;IAClE,cAAc,CAAC,EAAE,MAAM,EAAE,CAAC;CAC3B"}

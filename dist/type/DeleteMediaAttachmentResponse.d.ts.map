@@ -1,0 +1,1 @@
+{"version":3,"file":"DeleteMediaAttachmentResponse.d.ts","sourceRoot":"","sources":["../../src/type/DeleteMediaAttachmentResponse.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,qBAAa,6BAA6B;IACxC,yCAAyC;IACzC,OAAO,CAAC,QAAQ,CAAS;IACzB;;OAEG;gBACS,IAAI,GAAE,OAAO,CAAC,6BAA6B,CAAM;IAG7D;;OAEG;IACH,IAAI,OAAO,IAAI,MAAM,CAEpB;IACD;;OAEG;IACH,IAAI,OAAO,CAAC,KAAK,EAAE,MAAM,EAExB;CACF"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"ShipmentUpdateInput.d.ts","sourceRoot":"","sources":["../../src/type/ShipmentUpdateInput.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,wBAAwB,CAAC;AACxD;;GAEG;AACH,MAAM,WAAW,mBAAmB;IAClC,kDAAkD;IAClD,OAAO,CAAC,EAAE,MAAM,CAAC;IACjB,gCAAgC;IAChC,kBAAkB,CAAC,EAAE,MAAM,CAAC;IAC5B,sBAAsB;IACtB,MAAM,CAAC,EAAE,cAAc,CAAC;CACzB"}

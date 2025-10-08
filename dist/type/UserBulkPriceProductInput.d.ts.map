@@ -1,0 +1,1 @@
+{"version":3,"file":"UserBulkPriceProductInput.d.ts","sourceRoot":"","sources":["../../src/type/UserBulkPriceProductInput.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,MAAM,WAAW,yBAAyB;IACxC,eAAe;IACf,OAAO,CAAC,EAAE,MAAM,CAAC;IACjB,4CAA4C;IAC5C,SAAS,CAAC,EAAE,MAAM,CAAC;IACnB,6CAA6C;IAC7C,UAAU,CAAC,EAAE,MAAM,CAAC;IACpB,4CAA4C;IAC5C,SAAS,CAAC,EAAE,MAAM,CAAC;CACpB"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"DeleteMediaVideoResponse.d.ts","sourceRoot":"","sources":["../../src/type/DeleteMediaVideoResponse.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,qBAAa,wBAAwB;IACnC,oCAAoC;IACpC,OAAO,CAAC,QAAQ,CAAS;IACzB;;OAEG;gBACS,IAAI,GAAE,OAAO,CAAC,wBAAwB,CAAM;IAGxD;;OAEG;IACH,IAAI,OAAO,IAAI,MAAM,CAEpB;IACD;;OAEG;IACH,IAAI,OAAO,CAAC,KAAK,EAAE,MAAM,EAExB;CACF"}

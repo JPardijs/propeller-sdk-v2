@@ -1,0 +1,1 @@
+{"version":3,"file":"IntegerRangeSearchInput.d.ts","sourceRoot":"","sources":["../../src/type/IntegerRangeSearchInput.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,wBAAwB,EAAE,MAAM,kCAAkC,CAAC;AAC5E;;GAEG;AACH,MAAM,WAAW,uBAAuB;IACtC,6BAA6B;IAC7B,QAAQ,EAAE,wBAAwB,CAAC;IACnC,kCAAkC;IAClC,KAAK,EAAE,MAAM,CAAC;CACf"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"TenderProcessResponse.d.ts","sourceRoot":"","sources":["../../src/type/TenderProcessResponse.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,qBAAa,qBAAqB;IAChC,oBAAoB;IACpB,OAAO,CAAC,QAAQ,CAAS;IACzB;;OAEG;gBACS,IAAI,GAAE,OAAO,CAAC,qBAAqB,CAAM;IAGrD;;OAEG;IACH,IAAI,OAAO,IAAI,MAAM,CAEpB;IACD;;OAEG;IACH,IAAI,OAAO,CAAC,KAAK,EAAE,MAAM,EAExB;CACF"}

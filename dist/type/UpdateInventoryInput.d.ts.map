@@ -1,0 +1,1 @@
+{"version":3,"file":"UpdateInventoryInput.d.ts","sourceRoot":"","sources":["../../src/type/UpdateInventoryInput.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,MAAM,WAAW,oBAAoB;IACnC,yBAAyB;IACzB,QAAQ,CAAC,EAAE,MAAM,CAAC;IAClB,sBAAsB;IACtB,KAAK,CAAC,EAAE,MAAM,CAAC;IACf,+DAA+D;IAC/D,gBAAgB,CAAC,EAAE,MAAM,CAAC;IAC1B,2BAA2B;IAC3B,SAAS,CAAC,EAAE,MAAM,CAAC;CACpB"}

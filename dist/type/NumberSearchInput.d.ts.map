@@ -1,0 +1,1 @@
+{"version":3,"file":"NumberSearchInput.d.ts","sourceRoot":"","sources":["../../src/type/NumberSearchInput.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,MAAM,WAAW,iBAAiB;IAChC,4BAA4B;IAC5B,WAAW,CAAC,EAAE,MAAM,CAAC;IACrB,yBAAyB;IACzB,QAAQ,CAAC,EAAE,MAAM,CAAC;IAClB,eAAe;IACf,KAAK,CAAC,EAAE,MAAM,CAAC;CAChB"}

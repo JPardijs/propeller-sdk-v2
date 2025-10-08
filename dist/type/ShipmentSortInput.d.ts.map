@@ -1,0 +1,1 @@
+{"version":3,"file":"ShipmentSortInput.d.ts","sourceRoot":"","sources":["../../src/type/ShipmentSortInput.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,iBAAiB,EAAE,MAAM,2BAA2B,CAAC;AAC9D,OAAO,EAAE,SAAS,EAAE,MAAM,mBAAmB,CAAC;AAC9C;;GAEG;AACH,MAAM,WAAW,iBAAiB;IAChC,uBAAuB;IACvB,KAAK,EAAE,iBAAiB,CAAC;IACzB,wBAAwB;IACxB,KAAK,EAAE,SAAS,CAAC;CAClB"}

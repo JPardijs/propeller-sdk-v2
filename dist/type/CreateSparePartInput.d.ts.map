@@ -1,0 +1,1 @@
+{"version":3,"file":"CreateSparePartInput.d.ts","sourceRoot":"","sources":["../../src/type/CreateSparePartInput.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,oBAAoB,EAAE,MAAM,wBAAwB,CAAC;AAC9D;;GAEG;AACH,MAAM,WAAW,oBAAoB;IACnC,8BAA8B;IAC9B,IAAI,CAAC,EAAE,oBAAoB,EAAE,CAAC;IAC9B,8BAA8B;IAC9B,QAAQ,EAAE,MAAM,CAAC;IACjB,qBAAqB;IACrB,GAAG,EAAE,MAAM,CAAC;CACb"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"AttributeCsvInput.d.ts","sourceRoot":"","sources":["../../src/type/AttributeCsvInput.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,mBAAmB,EAAE,MAAM,uBAAuB,CAAC;AAC5D;;GAEG;AACH,MAAM,WAAW,iBAAiB;IAChC,eAAe;IACf,IAAI,EAAE,IAAI,CAAC;IACX,8CAA8C;IAC9C,QAAQ,CAAC,EAAE,mBAAmB,EAAE,CAAC;CAClC"}

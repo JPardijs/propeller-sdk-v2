@@ -1,0 +1,1 @@
+{"version":3,"file":"EmailSenderInput.d.ts","sourceRoot":"","sources":["../../src/type/EmailSenderInput.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,oBAAoB,EAAE,MAAM,wBAAwB,CAAC;AAC9D;;GAEG;AACH,MAAM,WAAW,gBAAgB;IAC/B,mCAAmC;IACnC,KAAK,CAAC,EAAE,MAAM,CAAC;IACf,0BAA0B;IAC1B,KAAK,CAAC,EAAE,oBAAoB,EAAE,CAAC;CAChC"}

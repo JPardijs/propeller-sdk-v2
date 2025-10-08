@@ -1,0 +1,1 @@
+{"version":3,"file":"BusinessRuleUpdateInput.d.ts","sourceRoot":"","sources":["../../src/type/BusinessRuleUpdateInput.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,oBAAoB,EAAE,MAAM,wBAAwB,CAAC;AAC9D;;GAEG;AACH,MAAM,WAAW,uBAAuB;IACtC,uBAAuB;IACvB,IAAI,EAAE,oBAAoB,EAAE,CAAC;CAC9B"}

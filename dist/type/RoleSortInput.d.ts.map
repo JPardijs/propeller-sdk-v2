@@ -1,0 +1,1 @@
+{"version":3,"file":"RoleSortInput.d.ts","sourceRoot":"","sources":["../../src/type/RoleSortInput.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,kBAAkB,EAAE,MAAM,4BAA4B,CAAC;AAChE,OAAO,EAAE,SAAS,EAAE,MAAM,mBAAmB,CAAC;AAC9C;;GAEG;AACH,MAAM,WAAW,aAAa;IAC5B,uBAAuB;IACvB,KAAK,EAAE,kBAAkB,CAAC;IAC1B,kDAAkD;IAClD,KAAK,EAAE,SAAS,CAAC;CAClB"}

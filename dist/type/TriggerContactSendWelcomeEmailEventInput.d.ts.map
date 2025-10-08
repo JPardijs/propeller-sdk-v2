@@ -1,0 +1,1 @@
+{"version":3,"file":"TriggerContactSendWelcomeEmailEventInput.d.ts","sourceRoot":"","sources":["../../src/type/TriggerContactSendWelcomeEmailEventInput.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,MAAM,WAAW,wCAAwC;IACvD,0DAA0D;IAC1D,SAAS,EAAE,MAAM,CAAC;IAClB,4BAA4B;IAC5B,SAAS,CAAC,EAAE,MAAM,CAAC;IACnB,8FAA8F;IAC9F,QAAQ,CAAC,EAAE,MAAM,CAAC;CACnB"}

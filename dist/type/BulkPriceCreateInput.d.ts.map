@@ -1,0 +1,1 @@
+{"version":3,"file":"BulkPriceCreateInput.d.ts","sourceRoot":"","sources":["../../src/type/BulkPriceCreateInput.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,MAAM,WAAW,oBAAoB;IACnC,eAAe;IACf,OAAO,EAAE,MAAM,CAAC;IAChB,6KAA6K;IAC7K,KAAK,EAAE,MAAM,CAAC;IACd,qFAAqF;IACrF,YAAY,EAAE,MAAM,CAAC;IACrB,iGAAiG;IACjG,SAAS,CAAC,EAAE,MAAM,CAAC;IACnB,gFAAgF;IAChF,OAAO,CAAC,EAAE,MAAM,CAAC;CAClB"}

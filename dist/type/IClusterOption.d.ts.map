@@ -1,0 +1,1 @@
+{"version":3,"file":"IClusterOption.d.ts","sourceRoot":"","sources":["../../src/type/IClusterOption.ts"],"names":[],"mappings":"AAGA;;GAEG;AACH,MAAM,WAAW,cAAc;IAC7B,wBAAwB;IACxB,EAAE,EAAE,MAAM,CAAC;IACX,kBAAkB;IAClB,IAAI,EAAE,MAAM,CAAC;IACb,yBAAyB;IACzB,WAAW,CAAC,EAAE,MAAM,CAAC;IACrB,mBAAmB;IACnB,KAAK,CAAC,EAAE,GAAG,CAAC;IACZ,oCAAoC;IACpC,OAAO,EAAE,OAAO,CAAC;CAClB"}
