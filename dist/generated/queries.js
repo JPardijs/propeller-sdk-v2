@@ -807,7 +807,12 @@ exports.valuesets = `query valuesets(\$input: ValuesetSearchInput) {
     ...ValuesetResponseFields
   }
 }`;
-exports.viewer = `query viewer {
+exports.viewer = `query viewer(
+  \$contactAttributesInput: AttributeResultSearchInput
+  \$contactPAConfigInput: ContactPurchaseAuthorizationConfigSearchInput
+  \$companyAttributesInput: AttributeResultSearchInput
+  \$customerAttributesInput: AttributeResultSearchInput
+) {
   viewer {
     __typename
     ... on Contact {

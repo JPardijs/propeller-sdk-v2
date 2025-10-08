@@ -21,10 +21,11 @@ class UserService extends BaseService_1.BaseService {
     }
     /**
      * Get current viewer information (authenticated user)
+     * @param input Viewer input arguments
      * @returns Promise<ViewerResult> The current viewer
      */
-    async getViewer() {
-        const result = await this.executeQuery('viewer');
+    async getViewer(input) {
+        const result = await this.executeQuery('viewer', { input });
         const viewerData = result.data.viewer;
         // Return appropriate type based on __typename
         if (viewerData.__typename === 'Contact') {

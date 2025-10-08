@@ -1028,6 +1028,17 @@ exports.CompanyContactSearchFields = `fragment CompanyContactSearchFields on Com
 }`;
 exports.CompanyDataFields = `fragment CompanyDataFields on Company {
   companyId
+  attributes (input: \$companyAttributesInput) {
+    items {
+      ... AttributeResultFields
+    }
+    itemsFound
+    offset
+    page
+    pages
+    start
+    end
+  }
   addresses {
     ... AddressFields
   }
@@ -1105,7 +1116,7 @@ exports.ContactAttributeFields = `fragment ContactAttributeFields on ContactAttr
 }`;
 exports.ContactFields = `fragment ContactFields on Contact {
   contactId
-  attributes {
+  attributes (input: \$contactAttributesInput) {
     items {
       ... AttributeResultFields
     }
@@ -1164,7 +1175,7 @@ exports.ContactFields = `fragment ContactFields on Contact {
     start
     end
   }
-  purchaseAuthorizationConfigs {
+  purchaseAuthorizationConfigs (input: \$contactPAConfigInput) {
     items {
       ... PurchaseAuthorizationConfigFields
     }
@@ -1330,7 +1341,7 @@ exports.CustomerFields = `fragment CustomerFields on Customer {
   addresses {
     ... AddressFields
   }
-  attributes {
+  attributes (input: \$customerAttributesInput) {
     items {
       ... AttributeResultFields
     }
